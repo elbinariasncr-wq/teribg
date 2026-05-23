@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+httpx
+aiohttp
+aiohttp-socks
+requests
+cloudscraper
+selenium-wire
+undetected-chromedriver
+fake-useragent
+pysocks
+curl_cffi
+tls-client
+beautifulsoup4
+lxml
+asyncio
+python-dotenv
